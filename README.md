@@ -1,7 +1,11 @@
 ## 👋 Hi I'm Patryk there 
 
 🎓 Student at Poznan University of Technology (Computer Science)
+
+
 💻 Learning & building full-stack applications
+
+
 🌐 Tech stack:
   • Spring Boot (Java)
   • Angular (TypeScript)

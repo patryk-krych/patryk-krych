@@ -7,9 +7,9 @@
 
 🌐 Tech stack:
 
-  • Spring Boot (Java)
+  • Spring Boot
   
-  • Angular (TypeScript)
+  • Angular
   
   • PostgreSQL
   

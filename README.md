@@ -1,4 +1,4 @@
-## 👋 Hi there , I'm Patryk
+## 👋 Hi there, I'm Patryk
 
 🎓 Student at Poznan University of Technology (Computer Science)
 

@@ -16,3 +16,5 @@
 🚀 Always exploring new tools and best practices
 
 🤝 Open to collaboration on real-world projects
+
+📫 Contact me:  p.krych12@gmail.com

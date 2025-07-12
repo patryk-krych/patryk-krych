@@ -5,6 +5,8 @@
 
 💻 Learning & building full-stack applications
 
+📊 Passionate about data analysis 
+
 🌐 Tech stack:
 
   • Spring Boot

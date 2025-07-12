@@ -2,10 +2,9 @@
 
 🎓 Student at Poznan University of Technology (Computer Science)
 
+📊 Passionate about data analysis 
 
 💻 Learning & building full-stack applications
-
-📊 Passionate about data analysis 
 
 🌐 Tech stack:
 
